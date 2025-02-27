@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.globalModuleInstallation": true,
+		"debugpy.showPythonInlineValues": true
+	}
+}
