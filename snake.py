@@ -4,8 +4,6 @@ import os
 p.mixer.init()
 
 p.init()
-
-
 clock = p.time.Clock()
 screen_width = 900
 screen_height = 400
@@ -62,7 +60,7 @@ def gameloop():
     snake_x = 45
     snake_y = 55
     snake_size = 15
-    fps = 30
+    fps = 60
     velocity_x = 0
     velocity_y = 0
     init_velocity = 5
