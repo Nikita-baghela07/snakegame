@@ -4,8 +4,6 @@ import os
 p.mixer.init()
 
 p.init()
-
-
 clock = p.time.Clock()
 screen_width = 900
 screen_height = 400
